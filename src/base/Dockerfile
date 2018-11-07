@@ -18,7 +18,7 @@ LABEL maintainer.email="whargrea@uoguelph.ca"
 ################# INSTALLATION ####################
 # install the sudo package
 RUN apk update && \
-    apk add --no-cache sudo
+    apk add --no-cache sudo bash
 
 # enable the wheel no password sudo group
 RUN sed \
