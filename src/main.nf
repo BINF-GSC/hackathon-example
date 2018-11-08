@@ -1,10 +1,10 @@
 #!/usr/bin/env nextflow
 
-fastqs = Channel.fromPath("$baseDir/fastqs/*.fastq.gz").collect()
+fastqs = Channel.fromPath("/home/maxh/Documents/rnaseq_example*").collect()
 
 process fastqc_raw {
     cpus 3
-    publishDir "$baseDir/fastqc_out"
+    publishDir "/home/maxh/Documents/rnaseq_example/fastqc_out"
 
     input:
     file fastqs
@@ -15,7 +15,7 @@ process fastqc_raw {
     script:
     """
     #!/bin/ash
-    
-    ls -l
+
+    fastqc -t 3 --no-extract $fastqs
     """
 }

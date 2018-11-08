@@ -1,8 +1,8 @@
 ################# BASE IMAGE ######################
-FROM binf/base:latest
+FROM binfgsc/base:latest
 
 ################## METADATA #######################
-LABEL base.image="binf/base:latest"
+LABEL base.image="binfgsc/base:latest"
 LABEL about.summary="A base image running programs that require java"
 
 ################## MAINTAINER #####################

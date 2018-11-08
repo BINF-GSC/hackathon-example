@@ -1,0 +1,7 @@
+2018-11-08 15:12:30	-	fervent_payne	-	d1c0c642a1cd90463d1e35103269e6d7	850de685-4d36-4708-8fa0-c75b9661456e	nextflow run main.nf
+2018-11-08 15:13:11	1.3s	trusting_kirch	OK	d1c0c642a1cd90463d1e35103269e6d7	eea801eb-b9bb-4e26-a990-3bbe2bd9afb3	nextflow run main.nf
+2018-11-08 15:13:22	990ms	admiring_nobel	OK	d1c0c642a1cd90463d1e35103269e6d7	5896754b-a1f7-4046-82de-0df1ac7b93cf	nextflow run main.nf
+2018-11-08 15:14:14	827ms	ecstatic_yalow	OK	d1c0c642a1cd90463d1e35103269e6d7	a0e9fb53-0bfc-4efc-8387-1c34d759aa51	nextflow run main.nf
+2018-11-08 15:16:51	990ms	infallible_jepsen	OK	86384d2fece07b035487b7dcbd67bf61	de618d61-28f0-4028-8ae3-6748b6c720f3	nextflow run main.nf
+2018-11-08 15:17:22	885ms	hungry_linnaeus	OK	01c4ba495bf121454aee94550a9adba9	6d78cc80-c6e4-41c3-8a50-b50ac463882c	nextflow run main.nf
+2018-11-08 15:18:46	1.6s	berserk_mandelbrot	OK	4d663716c65819108a56032f816859be	e0b43bc3-f5cc-4381-bf22-98b2ebb3919f	nextflow run main.nf

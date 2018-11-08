@@ -1,8 +1,8 @@
 ################## Base Image ####################
-FROM binf/base-java:latest
+FROM binfgsc/base-java:latest
 
 ################## METADATA ######################
-LABEL base.image="binf/bbtools:latest"
+LABEL base.image="binfgsc/bbtools:latest"
 LABEL version="1"
 LABEL software="bbtools"
 LABEL software.version="latest"

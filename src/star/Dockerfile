@@ -1,8 +1,8 @@
 ################## Base Image ####################
-FROM binf/base:latest
+FROM binfgsc/base:latest
 
 ################## METADATA ######################
-LABEL base.image="binf/base:latest"
+LABEL base.image="binfgsc/base:latest"
 LABEL version="1"
 LABEL software="star"
 LABEL software.version="2.6.1c"

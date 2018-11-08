@@ -1,8 +1,8 @@
 ################## Base Image ####################
-FROM binf/base-make:latest as base
+FROM binfgsc/base-make:latest as base
 
 ################## METADATA ######################
-LABEL base.image="binf/base:latest"
+LABEL base.image="binfgsc/base:latest"
 LABEL version="1"
 LABEL software="R"
 LABEL software.version="latest"

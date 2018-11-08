@@ -1,7 +1,7 @@
-FROM binf/base-java:latest
+FROM binfgsc/base-java:latest
 
 ################## METADATA ######################
-LABEL base.image="binf/base:latest"
+LABEL base.image="binfgsc/base:latest"
 LABEL version="1"
 LABEL software="fastqc"
 LABEL software.version="0.11.8"
