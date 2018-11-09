@@ -5,3 +5,8 @@
 2018-11-08 15:16:51	990ms	infallible_jepsen	OK	86384d2fece07b035487b7dcbd67bf61	de618d61-28f0-4028-8ae3-6748b6c720f3	nextflow run main.nf
 2018-11-08 15:17:22	885ms	hungry_linnaeus	OK	01c4ba495bf121454aee94550a9adba9	6d78cc80-c6e4-41c3-8a50-b50ac463882c	nextflow run main.nf
 2018-11-08 15:18:46	1.6s	berserk_mandelbrot	OK	4d663716c65819108a56032f816859be	e0b43bc3-f5cc-4381-bf22-98b2ebb3919f	nextflow run main.nf
+2018-11-09 13:39:19	1.1s	spontaneous_cray	OK	90e4c3d861d2ceb673cbc1ab85b67b0d	b8e9407f-c9b6-4375-b14a-a42330e9c62d	nextflow run main.nf
+2018-11-09 13:44:42	11.6s	fabulous_dalembert	OK	eea7d3512f6702932a22333f3d63a528	314d2695-c4b7-4c32-a25b-e4afe758816b	nextflow run main.nf
+2018-11-09 13:47:00	10.5s	mighty_goldberg	OK	c9143e53605a83d752e2510fb95be390	23c02d23-dd9e-457a-bb9e-cc6cb94ca0d0	nextflow run main.nf
+2018-11-09 14:41:48	15.3s	furious_pesquet	OK	c9143e53605a83d752e2510fb95be390	250f3a35-07d7-46b8-a8a4-13a78bd4b068	nextflow run main.nf
+2018-11-09 14:45:21	16.1s	scruffy_gilbert	OK	c9143e53605a83d752e2510fb95be390	8f01d3f6-3a6f-4071-8ed6-edee379c778f	nextflow run main.nf
