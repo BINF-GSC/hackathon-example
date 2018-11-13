@@ -25,7 +25,7 @@ RUN sudo apk add R R-dev && \
     wget $URL/$TAR -P /opt && \
     sudo R CMD INSTALL /opt/$TAR
 
-# transfer littler to a small base image without all the make and dev stuff
+# transfer r to a small base image without all the make and dev stuff
 FROM binf/base:latest
 
 RUN sudo apk add R
